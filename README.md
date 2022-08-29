@@ -6,6 +6,7 @@ npm install socket.io
 
 run: node index.js
 
+-----------------------------------------------------
 Here are some ideas to improve the application:
 
 Broadcast a message to connected users when someone connects or disconnects.
